@@ -69,3 +69,11 @@
  <img width="600px" height="200px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Karenina-na&theme=react-dark">
 </div>
 
+![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/output/github-snake.svg">
+  <img alt="github-snake" src="/output/github-snake.svg">
+</picture>
+
