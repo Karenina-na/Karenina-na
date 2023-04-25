@@ -65,8 +65,9 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=karenina-na&theme=juicyfresh&column=7&rank=-U"/>
 </p>
 
-<div align="center"><img width="600px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Karenina-na&theme=chartreuse-dark" />
- <img width="600px" height="200px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Karenina-na&theme=react-dark">
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
+<img height="170px" width="350px" style="margin:0 5px" src="https://github-readme-streak-stats.herokuapp.com/?user=Karenina-na&theme=chartreuse-dark">
+<img height="170px" width="390px" style="margin:0 5px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Karenina-na&theme=react-dark">
 </div>
 
 ![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
@@ -74,4 +75,3 @@
 <picture>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg">
 </picture>
-
