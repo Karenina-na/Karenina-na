@@ -11,7 +11,7 @@
 
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" height="200px" width="400px" style="margin:0 5px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenina-na&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" height="200px" width="327px" style="margin:0 5px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenina-na&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&size_weight=0.1&count_weight=0.8" height="200px" width="327px" style="margin:0 5px"></img>
 </div>
 
 - 📫 How to reach me :
