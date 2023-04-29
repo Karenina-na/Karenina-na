@@ -73,5 +73,5 @@
 ![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
 
 <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg">a
 </picture>
