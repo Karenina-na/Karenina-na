@@ -1,8 +1,8 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 
 LABEL maintainer="weizixiang0@outlook.com" \
     description="Dev Environment for Docker" \
-    System="Ubuntu 20.04" \
+    System="Ubuntu 22.04" \
     Cuda="12.2" \
     CuDnn="cudnn-local-repo-ubuntu2004-8.9.2.26_1.0-1_amd64.deb"
 
@@ -25,10 +25,10 @@ EXPOSE 80 443 8080 55555-55559
 # 安装证书 ========================================================================
 RUN rm -rf /etc/apt/sources.list && \
     # 阿里源
-    echo "deb http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb http://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb http://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb http://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb http://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb http://mirrors.aliyun.com/ubuntu/ jammy-security main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb http://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb http://mirrors.aliyun.com/ubuntu/ jammy-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
     apt-get update && apt install ca-certificates -y
 
 # 用户 sudo ================================================================
@@ -42,38 +42,38 @@ USER root
 # 换源 ========================================================================
 RUN rm -rf /etc/apt/sources.list && \
     # 阿里源
-    echo "deb https://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb https://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb https://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb https://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb https://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb-src http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb-src http://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb-src http://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb-src http://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
-    echo "deb-src http://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb https://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb https://mirrors.aliyun.com/ubuntu/ jammy-security main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb https://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb https://mirrors.aliyun.com/ubuntu/ jammy-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb https://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb-src http://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb-src http://mirrors.aliyun.com/ubuntu/ jammy-security main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb-src http://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb-src http://mirrors.aliyun.com/ubuntu/ jammy-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
+    echo "deb-src http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
     # 中科大源
-    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ focal main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ focal-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ focal-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ focal-security main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ focal-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ focal main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ focal-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ focal-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ focal-security main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ focal-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ jammy main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ jammy-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ jammy-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ jammy-security main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.ustc.edu.cn/ubuntu/ jammy-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ jammy main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ jammy-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ jammy-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ jammy-security main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.ustc.edu.cn/ubuntu/ jammy-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
     # # 163源
-    # echo "deb https://mirrors.163.com/ubuntu/ focal main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb https://mirrors.163.com/ubuntu/ focal-security main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb https://mirrors.163.com/ubuntu/ focal-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb https://mirrors.163.com/ubuntu/ focal-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb https://mirrors.163.com/ubuntu/ focal-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.163.com/ubuntu/ focal main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.163.com/ubuntu/ focal-security main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.163.com/ubuntu/ focal-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.163.com/ubuntu/ focal-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
-    # echo "deb-src https://mirrors.163.com/ubuntu/ focal-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.163.com/ubuntu/ jammy main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.163.com/ubuntu/ jammy-security main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.163.com/ubuntu/ jammy-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.163.com/ubuntu/ jammy-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb https://mirrors.163.com/ubuntu/ jammy-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.163.com/ubuntu/ jammy main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.163.com/ubuntu/ jammy-security main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.163.com/ubuntu/ jammy-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.163.com/ubuntu/ jammy-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
+    # echo "deb-src https://mirrors.163.com/ubuntu/ jammy-backports main restricted universe multiverse " >> /etc/apt/sources.list && \
     # 更新
     apt-get update && apt-get -y upgrade
 
@@ -193,5 +193,5 @@ USER $USERNAME
 
 CMD ["/bin/bash", "-c"]
 
-# docker build -t wzx-dev:u20.04 -f wzx-dev-u20.04.dockerfile .
-# docker run -it --name dev --gpus all --shm-size 16G -p 22:22 -p 80:80 -p 443:443 -p 8080:8080 -v $PWD:/root/Workspace wzx-dev:u20.04 /bin/bash
+# docker build -t wzx-dev:u22.04 -f wzx-dev-u22.04.dockerfile .
+# docker run -it --name dev --gpus all --shm-size 16G -p 22:22 -p 80:80 -p 443:443 -p 8080:8080 -v $PWD:/root/Workspace wzx-dev:u22.04 /bin/bash
