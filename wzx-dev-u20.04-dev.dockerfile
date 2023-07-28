@@ -89,13 +89,6 @@ RUN apt-get install -y gcc g++ gdb cmake make ninja-build clang-format clang-tid
     apt-get install -y rustc cargo && \
     apt-get install -y php php-cli
 
-# 安装显卡驱动-nvidia =======================================================================
-RUN apt-get install -y ubuntu-drivers-common && \
-    apt-get install -y --reinstall software-properties-common && \
-    add-apt-repository ppa:graphics-drivers/ppa && \
-    apt-get update && \
-    ubuntu-drivers autoinstall
-
 # 写入基础配置文件 ========================================================================
 RUN echo "# User definitions">> ~/.bashrc && \
     echo "alias git-log='git log --pretty=oneline --all --graph --abbrev-commit'" >> ~/.bashrc && \
@@ -155,43 +148,9 @@ RUN echo "set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936" >> ~/.vimrc 
     echo "set ruler" >> ~/.vimrc && \
     echo "autocmd BufWritePost $MYVIMRC source $MYVIMRC" >> ~/.vimrc
 
-# 深度学习环境 ================================================================
-# cuda
-RUN wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-keyring_1.0-1_all.deb && \
-    dpkg -i cuda-keyring_1.0-1_all.deb && \
-    apt-get update && \
-    apt-get -y install cuda && \
-    echo "# cuda" && \
-    echo "export PATH=/usr/local/cuda-12.2/bin${PATH:+:${PATH}}" >> ~/.bashrc && \
-    echo "export LD_LIBRARY_PATH=/usr/local/cuda-12.2/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}" >> ~/.bashrc && \
-    source ~/.bashrc && \
-    rm -rf cuda-keyring_1.0-1_all.deb
-
-
-# cudnn - 需要手动下载到本地 https://developer.nvidia.com/downloads/compute/cudnn/secure/8.9.2/local_installers/12.x/cudnn-local-repo-ubuntu2004-8.9.2.26_1.0-1_amd64.deb/
-COPY cudnn-local-repo-ubuntu2004-8.9.2.26_1.0-1_amd64.deb /root/Workspace/
-
-RUN dpkg -i cudnn-local-repo-ubuntu2004-8.9.2.26_1.0-1_amd64.deb && \ 
-    cp /var/cudnn-local-repo-ubuntu2004-8.9.2.26/cudnn-local-9AE71A4A-keyring.gpg /usr/share/keyrings/ && \
-    dpkg -i cudnn-local-repo-ubuntu2004-8.9.2.26_1.0-1_amd64.deb && \ 
-    apt-get update && \
-    apt-get -y install libcudnn8=8.9.2.26-1+cuda12.1 libcudnn8-dev=8.9.2.26-1+cuda12.1 libcudnn8-samples=8.9.2.26-1+cuda12.1
-
-# WSL error
-# error: file creation failed: /var/lib/docker/overlay2/63f4f4931a98991120e2d819132e23e3e29a53d6b508337396be45feed822059/merged/usr/lib/x86_64-linux-gnu/libnvidia-ml.so.1: file exists: unknown.
-# see:
-# https://github.com/NVIDIA/nvidia-docker/issues/1551
-# https://blog.csdn.net/xujiamin0022016/article/details/124782913
-RUN rm -rf /usr/lib/x86_64-linux-gnu/libnvidia-ml.so.1 /usr/lib/x86_64-linux-gnu/libcuda.so.1 /usr/lib/x86_64-linux-gnu/libcudadebugger.so.1
-
-# pytorch
-RUN pip3 install numpy pandas scikit-learn && \
-    pip3 install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu121 && \
-    pip3 install opencv-python
-
 USER $USERNAME
 
 CMD ["/bin/bash", "-c"]
 
-# docker build -t wzx-dev:u20.04 -f wzx-dev-u20.04.dockerfile .
-# docker run -it --name dev --gpus all --shm-size 16G -p 22:22 -p 80:80 -p 443:443 -p 8080:8080 -v $PWD:/root/Workspace wzx-dev:u20.04 /bin/bash
+# docker build -t wzx-dev:u20.04 -f wzx-dev-u20.04-dev.dockerfile .
+# docker run -it --name dev --gpus all --shm-size 16G --privileged=true -p 22:22 -p 80:80 -p 443:443 -p 8080:8080 -v $PWD:/root/Workspace wzx-dev:u20.04 /bin/bash
