@@ -5,7 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=sout(%22Hello%2C%20World!%22);cout<<(%22Hello%2C%20World!%22)<<endl;console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);&center=true&size=27">
 </p>
 
+<p align="center">
+  <img src="./assert/Bottom_up.svg">
+  <img src="./assert/header_.png">
+</p>
+
 ### 🎍 You are my ![Visitor Count](https://profile-counter.glitch.me/Karenina-na/count.svg) visitor, Thank you! 👑👑👑
+
 
 - 📊 About my Github :
 
@@ -70,8 +76,14 @@
 <img height="170px" width="390px" style="margin:0 5px" src="https://github-readme-activity-graph.vercel.app/graph?username=Karenina-na&theme=react-dark">
 </div>
 
-![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg">
+</p>
 
-<picture>
+<p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg">
-</picture>
+</p>
+
+<p align="center">
+  <img src="./assert/Bottom_down.svg">
+</p>
