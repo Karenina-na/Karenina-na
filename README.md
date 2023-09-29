@@ -94,8 +94,8 @@
 </p>
 
 <p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Karenina_na&theme=radical&layout=compact" alt="Wakatime Coding Time" width="54%" align="left">
-<img align="right" src="./assert/vaporwave-aesthetic.gif" width="44%" alt="pixel city image">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Karenina_na&theme=radical&layout=compact" alt="Wakatime Coding Time" width="50%" >
+  <img align="right" src="./assert/vaporwave-aesthetic.gif" width="46%" alt="pixel city image">
 </p>
 
 
