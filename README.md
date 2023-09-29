@@ -87,7 +87,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg">
 </p>
 
-<p align="left" width="600px">
+<p align="left" width="100%">
   <img align="left" src="./assert/pixel-neon.gif" width=50%/>
   <img align="right" src="./assert/pixel-night.gif" width=50%/>
 </p>
