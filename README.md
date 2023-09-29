@@ -74,9 +74,10 @@
 </p>
 
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-  <img src="https://streak-stats.demolab.com?user=Karenina-na&theme=radical" width="51%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Karenina-na&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&theme=radical&show_icons=true&count_private=true" width="46%" alt="stats graph" />
 </div>
+
 <img width="100%" style="margin:0 5px" src="https://github-readme-activity-graph.vercel.app/graph?username=Karenina-na&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true">
 
 <p align="center">
@@ -87,15 +88,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg">
 </p>
 
-<p align="left" width="100%">
-  <img align="left" src="./assert/pixel-neon.gif" width=50%/>
-  <img align="right" src="./assert/pixel-night.gif" width=50%/>
+<p width="100%" align="center">
+  <img align="left" src="./assert/pixel-neon.gif" width="50%"/>
+  <img align="right" src="./assert/pixel-night.gif" width="50%"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Karenina_na&theme=radical&layout=compact" alt="Wakatime Coding Time" width="55%" align="left">
-<br>
+<p align="center" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Karenina_na&theme=radical&layout=compact" alt="Wakatime Coding Time" width="54%" align="left">
+<img align="right" src="./assert/vaporwave-aesthetic.gif" width="44%" alt="pixel city image">
+</p>
 
-<img align="right" src="./assert/vaporwave-aesthetic.gif" width="45%" alt="pixel city image">
 
 <p align="center">
   <img src="./assert/Bottom_down.svg">
