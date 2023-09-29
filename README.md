@@ -18,8 +18,8 @@
 - 📊 About my Github :
 
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" height="200px" width="400px" style="margin:0 5px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenina-na&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&size_weight=0.1&count_weight=0.8" height="200px" width="327px" style="margin:0 5px"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" width="49%" style="margin:0 5px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenina-na&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&size_weight=0.1&count_weight=0.8" width="40%" style="margin:0 5px"></img>
 </div>
 
 - 📫 How to reach me :
@@ -74,9 +74,10 @@
 </p>
 
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-<img height="170px" width="350px" style="margin:0 5px" src="https://github-readme-streak-stats.herokuapp.com/?user=Karenina-na&theme=chartreuse-dark">
-<img height="170px" width="390px" style="margin:0 5px" src="https://github-readme-activity-graph.vercel.app/graph?username=Karenina-na&theme=react-dark">
+  <img src="https://streak-stats.demolab.com?user=Karenina-na&theme=radical" width="51%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div>
+<img width="100%" style="margin:0 5px" src="https://github-readme-activity-graph.vercel.app/graph?username=Karenina-na&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true">
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
