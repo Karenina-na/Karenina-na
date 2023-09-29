@@ -2,7 +2,9 @@
 <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=sout(%22Hello%2C%20World!%22);cout<<(%22Hello%2C%20World!%22)<<endl;console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);&center=true&size=27">
+  <img src="./assert/animated-flame-01.gif" width="2.5%" align="left"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1040&lines=sout(%22Hello%2C%20World!%22);cout<<(%22Hello%2C%20World!%22)<<endl;console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);" width="90%" align="middle">
+  <img src="./assert/animated-flame-01.gif" width="2.5%" align="right"/>
 </p>
 
 <p align="center">
@@ -84,6 +86,18 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg">
 </p>
 
+<p align="left" width="600px">
+  <img align="left" src="./assert/pixel-neon.gif" width=50%/>
+  <img align="right" src="./assert/pixel-night.gif" width=50%/>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Karenina_na&theme=radical&layout=compact" alt="Wakatime Coding Time" width="55%" align="left">
+<br>
+
+<img align="right" src="./assert/vaporwave-aesthetic.gif" width="45%" alt="pixel city image">
+
 <p align="center">
   <img src="./assert/Bottom_down.svg">
 </p>
+
+<img src="./assert/animated-wave.svg" />
