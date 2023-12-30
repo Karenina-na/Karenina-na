@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karenina-na</h1>
 <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
 
-<p align="center">
+<p align="center" style="display: flex;justify-content: center;align-items: center;">
   <img src="./assert/animated-flame-01.gif" width="2.5%" align="left"/>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1040&lines=sout(%22Hello%2C%20World!%22);cout<<(%22Hello%2C%20World!%22)<<endl;console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);" width="90%" align="middle">
   <img src="./assert/animated-flame-01.gif" width="2.5%" align="right"/>
@@ -9,23 +9,31 @@
 
 <p align="center">
   <img src="./assert/Bottom_up.svg">
-  <img src="./assert/header_.png">
 </p>
 
-### 🎍 You are my ![Visitor Count](https://profile-counter.glitch.me/Karenina-na/count.svg) visitor, Thank you! 👑👑👑
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+### 🎍 You are my ![Visitor Count](https://profile-counter.glitch.me/Karenina-na/count.svg) visitor, Thank you! 👑👑👑
 
 - 📊 About my Github :
 
 <div align="center" style="display: flex;justify-content: center;align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" width="49%" style="margin:0 5px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenina-na&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&size_weight=0.1&count_weight=0.8" width="40%" style="margin:0 5px"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" width="49%" style="margin:0 5px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karenina-na&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&size_weight=0.1&count_weight=0.8" width="40%" style="margin:0 5px"/>
 </div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif"/>
 
 - 📫 How to reach me :
 ![outlook](https://img.shields.io/badge/weizixiang0@outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)
 ![school](https://img.shields.io/badge/weizixiang0@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white)
 ![Steam](https://img.shields.io/badge/Karenina--na-000000?logo=steam&logoColor=white)
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif"/>
 
 - 🌱 I’m currently learning
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -45,6 +53,8 @@
 ![mysql](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 ![elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif"/>
 
 - ⚡ Environment :
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -66,10 +76,11 @@
 ![postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![vmware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif"/>
+
 - 📦 I use :
 
 <p align="center">
-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
@@ -206,37 +217,72 @@
 
 ### 📈 Github Stats
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=karenina-na&theme=juicyfresh&column=8&rank=-U"/>
-</p>
-
-<div align="center" style="display: flex;justify-content: center;align-items: center;">
-  <img src="https://streak-stats.demolab.com?user=Karenina-na&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&theme=radical&show_icons=true&count_private=true" width="46%" alt="stats graph" />
+<div align="center" width="190%">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=karenina-na&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
-<img width="100%" style="margin:10px 5px" src="https://github-readme-activity-graph.vercel.app/graph?username=Karenina-na&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true">
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
+<table>
+  <tr>
+  <td>
+    <img src="https://streak-stats.demolab.com?user=Karenina-na&theme=radical" width="100%" alt="streaks graph" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Karenina-na&theme=radical&show_icons=true&count_private=true" width="100%" alt="stats graph" /></td>
+  </tr>
+</table>
+</div>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg">
-</p>
+<div align="center" style="display: flex;justify-content: center;align-items: center;">
+  <table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karenina-na&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true"/>
+    </td>
+  </tr>
 
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg" style="margin:10px 5px">
+  <tr>
+    <td>
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karenina-na/Karenina-na/output/github-contribution-grid-snake.svg" width="100%">
+    </td>
+  </tr>
 </p>
+  </table>
+</div>
 
 <p width="100%" align="center">
   <img align="left" src="./assert/pixel-neon.gif" width="50%"/>
   <img align="right" src="./assert/pixel-night.gif" width="50%"/>
 </p>
 
-<p align="center" width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Karenina_na&theme=radical&layout=compact" alt="Wakatime Coding Time" width="50%" style="margin:10px 5px">
-  <img align="right" src="./assert/vaporwave-aesthetic.gif" width="46%" alt="pixel city image" style="margin:10px 5px">
-</p>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<p align="center">
-  <img src="./assert/Bottom_down.svg">
-</p>
+<table>
+<tr>
+  <td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Karenina_na&theme=radical&layout=compact"\>
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/>
+  </picture>
+  </td>
+  <td width="50%">
+  <img src="https://wakatime.com/share/@Karenina_na/7f1e138b-7495-472e-a713-868bce3d33da.svg">
+  <img src="https://wakatime.com/share/@Karenina_na/46b71b41-e290-4376-843a-0584f035e137.svg">
+  </td>
+</tr>
+</table>
 
-<img src="./assert/animated-wave.svg"/>
+<table>
+<tr>
+  <td><img src="./assert/header_.png"/></td>
+</tr>
+<tr>
+  <td><img src="./assert/Bottom_down.svg"/></td>
+</tr>
+</table>
