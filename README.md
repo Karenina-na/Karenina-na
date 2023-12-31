@@ -208,6 +208,9 @@
 </tr>
 </table>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <table>
 <tr>
   <td><img src="./assert/header_.png"/></td>
