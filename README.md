@@ -9,13 +9,15 @@
 <!-- welcome to my profile  -->
 <p align="center">
   <img src="./assert/animated-flame-01.gif" width="5.5%" align="left"/>
-  <img src="./assert/Bottom_up.svg">
+  <img src="./assert/Bottom_up.svg" width="86%">
   <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
 </p>
 
 <!-- quotes -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="80%"/>
+  <img align="left" width="10%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+  <img align="center" width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+  <img align="right" width="10%"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </p>
 
 <img width="200%" src="./assert/hr.gif" />
@@ -36,16 +38,19 @@
 <td>
 
 - 📫 How to reach me :
+
 ![outlook](https://img.shields.io/badge/weizixiang0@outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)
 ![school](https://img.shields.io/badge/weizixiang0@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white)
 ![Steam](https://img.shields.io/badge/Karenina--na-000000?logo=steam&logoColor=white)
+![WakaTime](https://img.shields.io/badge/@Karenina_na-000000?logo=wakatime&logoColor=white)
 
 </tr>
 </td>
 <tr>
 <td>
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning :
+
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -95,15 +100,18 @@
 ![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-
 </td>
 </tr>
 <tr>
 <td>
 
 - ⚡ Environment :
+
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![centos](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![wsl](https://img.shields.io/badge/WSL-0078D6?logo=windows&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![conda](https://img.shields.io/badge/Conda-342B029?logo=anaconda&logoColor=white)
@@ -120,6 +128,8 @@
 ![clion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![vmware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+![photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+![premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)
 
 </td>
 </tr>
