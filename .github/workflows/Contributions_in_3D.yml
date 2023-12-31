@@ -5,6 +5,11 @@ on:
     - cron: "0 21 * * *"
   workflow_dispatch:
 
+  # run on every push on the master branch
+  push:
+    branches:
+      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest

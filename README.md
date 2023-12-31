@@ -208,6 +208,10 @@
 </tr>
 </table>
 
+<img width="200%" src="./assert/hr.gif"/>
+
+### wakatime stats 📊
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2012%20mins-blue)
 
@@ -295,6 +299,8 @@ Vue                      3 repos             ██░░░░░░░░░�
 
  Last Updated on 31/12/2023 07:55:06 UTC
 <!--END_SECTION:waka-->
+
+<img width="200%" src="./assert/hr.gif"/>
 
 <table>
 <tr>

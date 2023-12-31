@@ -5,6 +5,12 @@ on:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+      - main
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
