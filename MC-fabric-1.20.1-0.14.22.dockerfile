@@ -27,13 +27,14 @@ RUN rm -rf /etc/apt/sources.list && \
     echo "deb http://mirrors.aliyun.com/ubuntu/ jammy-security main restricted universe multiverse " >> /etc/apt/sources.list && \
     echo "deb http://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse " >> /etc/apt/sources.list && \
     echo "deb http://mirrors.aliyun.com/ubuntu/ jammy-proposed main restricted universe multiverse " >> /etc/apt/sources.list && \
-    apt-get update && apt install ca-certificates -y
+    apt-get update && apt install ca-certificates -y && rm -rf /var/lib/apt/lists/*
 
 # 用户 sudo ================================================================
-RUN apt-get -y install sudo && \ 
+RUN apt-get update && apt-get -y install sudo && \ 
     useradd -m -s /bin/bash $USERNAME && \
     echo "$USERNAME:$PASSWORD" | chpasswd && \
-    echo "$USERNAME ALL=(ALL) ALL" >> /etc/sudoers
+    echo "$USERNAME ALL=(ALL) ALL" >> /etc/sudoers && \
+    rm -rf /var/lib/apt/lists/*
 
 USER root 
 
@@ -76,11 +77,12 @@ RUN rm -rf /etc/apt/sources.list && \
     apt-get update && apt-get -y upgrade
 
 # 安装基础软件 ========================================================================
-RUN apt-get install -y vim wget curl git net-tools iputils-ping telnet unzip zip tar tzdata openssh-server pciutils mesa-utils alsa-utils dpkg screen
+RUN apt-get update && apt-get install -y vim wget curl git net-tools iputils-ping telnet unzip zip tar tzdata openssh-server pciutils mesa-utils alsa-utils dpkg && \
+	rm -rf /var/lib/apt/lists/*
 
 # 安装开发软件
-RUN apt-get install -y gcc g++ gdb cmake make ninja-build clang-format clang-tidy clang-tools clang libclang-dev lldb llvm-dev && \
-    apt-get install -y nodejs npm yarn
+RUN apt-get update && apt-get install -y gcc g++ gdb cmake make ninja-build clang-format clang-tidy clang-tools clang libclang-dev lldb llvm-dev && \
+	rm -rf /var/lib/apt/lists/*
 
 # 写入基础配置文件 ========================================================================
 RUN echo "# User definitions">> ~/.bashrc && \
@@ -118,8 +120,10 @@ RUN wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz 
     source ~/.bashrc && \
     rm -rf jdk-17_linux-x64_bin.tar.gz
 
-USER $USERNAME
+# 安装 fabric ========================================================================
+COPY fabric-server-mc.1.20.1-loader.0.14.22-launcher.1.0.0.jar /root/fabric-server-mc.1.20.1-loader.0.14.22-launcher.1.0.0.jar
 
+# 启动
 CMD ["/bin/bash", "-c"]
 
 # docker build -t wzx-mc-fabric-1.20.1-loader.0.14.22 -f MC-fabric-1.20.1-loader.0.14.22.dockerfile .
