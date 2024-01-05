@@ -18,7 +18,7 @@ WORKDIR /root/Workspace
 SHELL ["/bin/bash", "-c"]
 
 # 开放端口
-EXPOSE 80 443 8080 25565 23333 24444
+EXPOSE 25565 23333 24444
 
 # 安装证书 ========================================================================
 RUN rm -rf /etc/apt/sources.list && \
@@ -122,16 +122,11 @@ USER $USERNAME
 
 CMD ["/bin/bash", "-c"]
 
-# docker build -t wzx-mc-forge-1.19.2-43.2.21 -f MC-forge-1.19.2-43.2.21.dockerfile .
-# docker run -it --name mc-forge --gpus all --shm-size 16G --privileged=true -p 25565:25565 -p 23333:23333 -p 24444:24444 -v $PWD:/root/Workspace wzx-mc-forge-1.19.2-43.2.21 /bin/bash
-
+# docker build -t wzx-mc-fabric-1.20.1-loader.0.14.22 -f MC-fabric-1.20.1-loader.0.14.22.dockerfile .
+# docker run -it --name mc-fabric --shm-size 3G --privileged=true -p 25565:25565 -p 23333:23333 -p 24444:24444 -v $PWD:/root/Workspace wzx-mc-fabric-1.20.1-loader.0.14.22 /bin/bash
 
 # 配置安装
-# java -server -Dfile.encoding=UTF-8 -Duser.language=zh -Duser.country=CN -jar forge-1.19.2-43.2.21-installer.jar --installServer
-# 编辑 run.sh，在java @user_jvm_args.txt 后添加
-# -server -Dfile.encoding=UTF-8 -Duser.language=zh -Duser.country=CN
-# 运行一次
-# ./run.sh
+# java -Xmx3G -Dfile.encoding=UTF-8 -Duser.language=zh -Duser.country=CN -jar fabric-server-mc.1.20.1-loader.0.14.22-launcher.1.0.0.jar nogui
 # 编辑 elua.txt
 # eula=true
 # 编辑 server.properties
