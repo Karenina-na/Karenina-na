@@ -215,7 +215,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
@@ -296,7 +296,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2024 18:33:47 UTC
+ Last Updated on 14/01/2024 18:33:55 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
