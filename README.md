@@ -221,6 +221,8 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
+> 🏆 242 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -254,16 +256,23 @@ Sunday                   231 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   17 mins             ████████████████████░░░░░   78.03 % 
+Go                       3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Java                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  17 mins             ████████████████████░░░░░   78.03 % 
+GoLand                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+IntelliJ IDEA            1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Deep-Learning-Framework  17 mins             ████████████████████░░░░░   78.03 % 
+Themis                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+BGP_Message_Test         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+DesignMode               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -283,7 +292,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2024 18:38:18 UTC
+ Last Updated on 20/07/2024 18:37:43 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
