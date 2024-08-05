@@ -221,8 +221,6 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 242 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -256,24 +254,16 @@ Sunday                   230 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 8 mins         █████████████████████░░░░   82.65 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RustRover                1 hr 22 mins        █████████████████████████   99.75 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-x4util                   1 hr 15 mins        ███████████████████████░░   91.67 % 
-mc-client                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Learn                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-src-tauri                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -293,7 +283,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2024 18:36:23 UTC
+ Last Updated on 05/08/2024 18:39:33 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
