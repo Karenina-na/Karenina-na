@@ -215,7 +215,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
@@ -227,45 +227,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                280 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-🌆 Daytime                517 commits         █████████░░░░░░░░░░░░░░░░   34.01 % 
-🌃 Evening                532 commits         █████████░░░░░░░░░░░░░░░░   35.00 % 
-🌙 Night                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Friday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Saturday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Sunday                   230 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -283,7 +244,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 18:39:10 UTC
+ Last Updated on 08/09/2024 18:39:12 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
