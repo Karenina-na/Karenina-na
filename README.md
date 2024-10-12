@@ -221,6 +221,8 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
+> 🏆 244 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -254,21 +256,16 @@ Sunday                   230 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 14 mins       █████████████████████░░░░   84.75 % 
-Text                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Requirements.txt         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Vul                      2 hrs 21 mins       ██████████████████████░░░   89.16 % 
-Deep-Learning-Framework  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -288,7 +285,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 18:42:00 UTC
+ Last Updated on 12/10/2024 18:40:02 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
