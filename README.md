@@ -213,13 +213,13 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -227,6 +227,45 @@
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                282 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+🌆 Daytime                517 commits         ████████░░░░░░░░░░░░░░░░░   33.97 % 
+🌃 Evening                532 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
+🌙 Night                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Thursday                 229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Friday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Saturday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Sunday                   230 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   3 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  3 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+test                     3 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -244,7 +283,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 18:40:36 UTC
+ Last Updated on 04/11/2024 18:41:48 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
