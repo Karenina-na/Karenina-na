@@ -227,45 +227,6 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                282 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-🌆 Daytime                517 commits         ████████░░░░░░░░░░░░░░░░░   33.97 % 
-🌃 Evening                532 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
-🌙 Night                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Thursday                 229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Friday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Saturday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Sunday                   230 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -283,7 +244,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 18:38:38 UTC
+ Last Updated on 10/11/2024 18:39:23 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
