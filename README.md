@@ -213,9 +213,9 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -254,16 +254,19 @@ Sunday                   230 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   30 mins             █████████████████████████   100.00 % 
+Python                   58 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-8work                    30 mins             █████████████████████████   100.00 % 
+8work                    30 mins             █████████████░░░░░░░░░░░░   51.62 % 
+test                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+federal-lr-blockchain    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Hand                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -283,7 +286,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2024 18:41:59 UTC
+ Last Updated on 14/11/2024 18:44:02 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
