@@ -221,6 +221,8 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
+> 🏆 254 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -292,7 +294,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:43:24 UTC
+ Last Updated on 30/11/2024 18:41:38 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
