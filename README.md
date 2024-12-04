@@ -221,7 +221,7 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 254 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -256,25 +256,16 @@ Sunday                   230 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 29 mins       ██████████████████░░░░░░░   72.34 % 
-Jupyter                  52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  3 hrs 35 mins       ███████████████████░░░░░░   74.42 % 
-VS Code                  1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-信息安全创新综合实验               4 hrs 8 mins        █████████████████████░░░░   85.84 % 
-Information-Security-Inno30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-IntrusionDetectNet-CNN-Tr7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Hand                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Communication_Perception_1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -294,7 +285,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2024 18:43:52 UTC
+ Last Updated on 04/12/2024 18:46:32 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
