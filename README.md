@@ -213,7 +213,7 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -221,13 +221,11 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -256,20 +254,20 @@ Sunday                   230 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 3 mins        ██████████████████████░░░   86.06 % 
-XML                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Vue.js                   1 hr 47 mins        ██████████████████░░░░░░░   72.21 % 
+XML                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 
 🔥 Editors: 
-WebStorm                 5 hrs 25 mins       ███████████████████████░░   92.29 % 
-VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+WebStorm                 2 hrs 1 min         ████████████████████░░░░░   81.69 % 
+VS Code                  27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 
 🐱‍💻 Projects: 
-SecScanter-UI            5 hrs 25 mins       ███████████████████████░░   92.29 % 
-aegs                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+SecScanter-UI            2 hrs 1 min         ████████████████████░░░░░   81.69 % 
+aegs                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 
 💻 Operating System: 
-Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -289,7 +287,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2025 18:44:37 UTC
+ Last Updated on 06/03/2025 18:43:22 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
