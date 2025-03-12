@@ -213,13 +213,15 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -254,17 +256,17 @@ Sunday                   230 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 38 mins       ██████████████████████░░░   86.38 % 
-TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Vue.js                   4 hrs 57 mins       █████████████████████░░░░   83.94 % 
+TypeScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 12 mins       █████████████████████████   100.00 % 
+WebStorm                 5 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SecScanter-UI            4 hrs 12 mins       █████████████████████████   100.00 % 
+SecScanter-UI            5 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -284,7 +286,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 18:44:44 UTC
+ Last Updated on 12/03/2025 18:44:31 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
