@@ -213,15 +213,13 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -256,8 +254,8 @@ Sunday                   230 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 57 mins       █████████████████████░░░░   83.94 % 
-TypeScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Vue.js                   5 hrs               █████████████████████░░░░   84.71 % 
+TypeScript               54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 
 🔥 Editors: 
 WebStorm                 5 hrs 54 mins       █████████████████████████   100.00 % 
@@ -286,7 +284,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 18:44:31 UTC
+ Last Updated on 13/03/2025 18:44:05 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
