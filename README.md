@@ -256,18 +256,16 @@ Sunday                   232 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Jupyter                  40 mins             █████████████████████░░░░   82.82 % 
-Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-test                     45 mins             ████████████████████████░   94.71 % 
-SecScanter-backend       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -287,7 +285,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2025 18:47:58 UTC
+ Last Updated on 12/06/2025 18:47:28 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
