@@ -213,15 +213,13 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -256,17 +254,19 @@ Sunday                   232 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 18 mins        █████████████████████████   100.00 % 
+Python                   1 hr 24 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 18 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 18 mins        ███████████████████████░░   93.02 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 🐱‍💻 Projects: 
-本科毕业设计代码                 1 hr 17 mins        █████████████████████████   98.19 % 
-SecScanter-backend       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+本科毕业设计代码                 1 hr 17 mins        ███████████████████████░░   91.33 % 
+SORT                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+SecScanter-backend       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -286,7 +286,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2025 18:48:29 UTC
+ Last Updated on 08/07/2025 18:49:11 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
