@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Karenina-na</h1>
-<h3 align="center">👤 A developer and student of NWPU 🏨</h3>
+<h3 align="center">👤 A developer and Ph.D. student at the IA, UCAS 🏨</h3>
 
 <!-- welcome to my profile  -->
 <p align="center">
