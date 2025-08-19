@@ -213,7 +213,7 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -254,16 +254,19 @@ Sunday                   232 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   100.00 % 
+Python                   1 hr 16 mins        ███████████████████████░░   91.42 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         ███████████████████░░░░░░   76.40 % 
+PyCharm                  19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
 
 🐱‍💻 Projects: 
-dog                      9 mins              █████████████████████████   100.00 % 
+dog                      1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -283,7 +286,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2025 18:50:45 UTC
+ Last Updated on 19/08/2025 18:46:07 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
