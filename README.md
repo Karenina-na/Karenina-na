@@ -256,21 +256,16 @@ Sunday                   232 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 8 mins        █████████████████████████   98.43 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-eco_sim                  1 hr 41 mins        █████████████░░░░░░░░░░░░   53.34 % 
-作业1                      1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.66 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -290,7 +285,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2025 18:47:13 UTC
+ Last Updated on 12/11/2025 18:45:20 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
