@@ -213,7 +213,7 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-734%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -229,45 +229,6 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                288 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌆 Daytime                523 commits         █████████░░░░░░░░░░░░░░░░   34.09 % 
-🌃 Evening                532 commits         █████████░░░░░░░░░░░░░░░░   34.68 % 
-🌙 Night                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Wednesday                239 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Thursday                 233 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Friday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Saturday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Sunday                   232 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -285,7 +246,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:43:40 UTC
+ Last Updated on 16/11/2025 18:43:48 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
