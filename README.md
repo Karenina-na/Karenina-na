@@ -210,8 +210,6 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -226,45 +224,6 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                288 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-🌆 Daytime                523 commits         █████████░░░░░░░░░░░░░░░░   34.07 % 
-🌃 Evening                533 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
-🌙 Night                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 233 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Friday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Saturday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Sunday                   232 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -282,7 +241,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:50:38 UTC
+ Last Updated on 02/01/2026 18:49:40 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
