@@ -210,7 +210,7 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -253,20 +253,16 @@ Sunday                   232 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   7 hrs 32 mins       █████████████████████████   98.54 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Siyuan                   3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   7 hrs 32 mins       █████████████████████████   98.54 % 
-PyCharm                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+SiYuan                   3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:Note    7 hrs 32 mins       █████████████████████████   98.54 % 
-cot                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+siyuan-workspace:Note    3 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -286,7 +282,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2026 19:05:41 UTC
+ Last Updated on 14/03/2026 19:01:00 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
