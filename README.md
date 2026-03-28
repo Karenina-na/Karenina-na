@@ -212,7 +212,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -253,18 +253,18 @@ Sunday                   232 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   7 hrs 33 mins       █████████████████████████   100.00 % 
+Siyuan                   7 hrs 32 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   7 hrs 33 mins       █████████████████████████   100.00 % 
+SiYuan                   7 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:Note    6 hrs 59 mins       ███████████████████████░░   92.53 % 
-siyuan-workspace:siyuan  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+siyuan-workspace:Note    6 hrs 59 mins       ███████████████████████░░   92.73 % 
+siyuan-workspace:siyuan  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       ███████████████████████░░   92.53 % 
-Unknown OS               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Windows                  6 hrs 59 mins       ███████████████████████░░   92.73 % 
+Unknown OS               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 
 **I Mostly Code in Python** 
@@ -284,7 +284,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 19:14:39 UTC
+ Last Updated on 28/03/2026 19:04:40 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
