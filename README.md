@@ -210,9 +210,9 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -226,6 +226,47 @@
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                288 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+🌆 Daytime                523 commits         █████████░░░░░░░░░░░░░░░░   34.07 % 
+🌃 Evening                533 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
+🌙 Night                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Wednesday                240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 233 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Friday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Saturday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Sunday                   232 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Siyuan                   8 hrs 19 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+SiYuan                   8 hrs 19 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+siyuan-workspace:Note    6 hrs 16 mins       ███████████████████░░░░░░   75.40 % 
+siyuan-workspace:siyuan  2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+
+💻 Operating System: 
+Windows                  6 hrs 16 mins       ███████████████████░░░░░░   75.40 % 
+Mac                      2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -243,7 +284,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 19:36:01 UTC
+ Last Updated on 18/04/2026 19:13:01 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
