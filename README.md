@@ -210,7 +210,7 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -253,16 +253,16 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   35 mins             █████████████████████████   100.00 % 
+Siyuan                   42 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   35 mins             █████████████████████████   100.00 % 
+SiYuan                   42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:siyuan  35 mins             █████████████████████████   100.00 % 
+siyuan-workspace:siyuan  42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -282,7 +282,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 21:29:19 UTC
+ Last Updated on 16/06/2026 21:24:11 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
