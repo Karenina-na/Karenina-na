@@ -210,9 +210,9 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -253,16 +253,16 @@ Sunday                   394 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   1 hr 43 mins        █████████████████████████   100.00 % 
+Siyuan                   1 hr 44 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   1 hr 43 mins        █████████████████████████   100.00 % 
+SiYuan                   1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:siyuan  1 hr 43 mins        █████████████████████████   100.00 % 
+siyuan-workspace:siyuan  1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -282,7 +282,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 20:28:10 UTC
+ Last Updated on 26/06/2026 20:16:07 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
