@@ -210,15 +210,13 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 991 Contributions in the Year 2026
+> 🏆 1,012 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -226,45 +224,6 @@
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                473 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌆 Daytime                1124 commits        ████████░░░░░░░░░░░░░░░░░   33.97 % 
-🌃 Evening                1135 commits        █████████░░░░░░░░░░░░░░░░   34.30 % 
-🌙 Night                  577 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   485 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Tuesday                  516 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Wednesday                474 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Thursday                 460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Friday                   396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Saturday                 445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Sunday                   533 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Siyuan                   1 hr 33 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-SiYuan                   1 hr 33 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-siyuan-workspace:siyuan  1 hr 33 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -282,7 +241,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:53:42 UTC
+ Last Updated on 24/07/2026 19:53:45 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
