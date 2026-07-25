@@ -210,6 +210,8 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2039%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -224,6 +226,45 @@
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                475 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+🌆 Daytime                1132 commits        ████████░░░░░░░░░░░░░░░░░   33.99 % 
+🌃 Evening                1145 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
+🌙 Night                  578 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   486 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Tuesday                  524 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Wednesday                477 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Thursday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Friday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Saturday                 445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Sunday                   534 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Siyuan                   1 hr 4 mins         █████████████████████████   100.00 % 
+
+🔥 Editors: 
+SiYuan                   1 hr 4 mins         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+siyuan-workspace:siyuan  1 hr 4 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -241,7 +282,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:53:45 UTC
+ Last Updated on 25/07/2026 19:41:19 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
