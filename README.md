@@ -210,7 +210,7 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%202%20mins-blue?style=flat)
 
@@ -255,16 +255,16 @@ Sunday                   534 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Siyuan                   3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+SiYuan                   3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+siyuan-workspace:siyuan  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -290,7 +290,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:06:20 UTC
+ Last Updated on 05/08/2026 20:02:36 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
