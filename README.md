@@ -255,16 +255,16 @@ Sunday                   534 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   2 hrs 50 mins       █████████████████████████   100.00 % 
+Siyuan                   2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   2 hrs 50 mins       █████████████████████████   100.00 % 
+SiYuan                   2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:siyuan  2 hrs 50 mins       █████████████████████████   100.00 % 
+siyuan-workspace:siyuan  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -290,7 +290,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:53:31 UTC
+ Last Updated on 16/08/2026 18:53:01 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
