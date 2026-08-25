@@ -210,7 +210,7 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%202%20mins-blue?style=flat)
 
@@ -220,7 +220,7 @@
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,080 Contributions in the Year 2026
+> 🏆 1,092 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -231,21 +231,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                412 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                901 commits         █████████░░░░░░░░░░░░░░░░   34.06 % 
-🌃 Evening                923 commits         █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌙 Night                  409 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌞 Morning                412 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+🌆 Daytime                901 commits         ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌃 Evening                928 commits         █████████░░░░░░░░░░░░░░░░   34.93 % 
+🌙 Night                  416 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Tuesday                  377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Wednesday                391 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Thursday                 372 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Saturday                 367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Sunday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Monday                   361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Tuesday                  379 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Wednesday                398 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Thursday                 372 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Saturday                 367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Sunday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 ```
 
 
@@ -255,16 +255,16 @@ Sunday                   433 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   19 mins             █████████████████████████   100.00 % 
+Siyuan                   9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   19 mins             █████████████████████████   100.00 % 
+SiYuan                   9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:siyuan  19 mins             █████████████████████████   100.00 % 
+siyuan-workspace:siyuan  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -278,9 +278,9 @@ No AI Coding Activity Tracked This Week
 ```text
 Python                   16 repos            ████████░░░░░░░░░░░░░░░░░   31.37 % 
 Jupyter Notebook         9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -290,7 +290,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:08:47 UTC
+ Last Updated on 25/08/2026 19:07:09 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
