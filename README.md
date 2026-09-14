@@ -255,16 +255,16 @@ Sunday                   455 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   26 mins             █████████████████████████   100.00 % 
+Siyuan                   25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   26 mins             █████████████████████████   100.00 % 
+SiYuan                   25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:siyuan  26 mins             █████████████████████████   100.00 % 
+siyuan-workspace:siyuan  25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -290,7 +290,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 20:59:52 UTC
+ Last Updated on 14/09/2026 21:57:09 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
