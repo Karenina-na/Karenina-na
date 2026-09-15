@@ -210,7 +210,7 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%202%20mins-blue?style=flat)
 
@@ -220,32 +220,32 @@
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,327 Contributions in the Year 2026
+> 🏆 1,333 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 40 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                428 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-🌆 Daytime                1011 commits        █████████░░░░░░░░░░░░░░░░   34.97 % 
-🌃 Evening                1001 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌙 Night                  451 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+🌞 Morning                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+🌆 Daytime                1011 commits        █████████░░░░░░░░░░░░░░░░   34.91 % 
+🌃 Evening                1002 commits        █████████░░░░░░░░░░░░░░░░   34.60 % 
+🌙 Night                  451 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Wednesday                440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Thursday                 401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Saturday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Monday                   388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Tuesday                  401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Wednesday                440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Thursday                 401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Saturday                 405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 ```
 
 
@@ -255,16 +255,16 @@ Sunday                   455 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   25 mins             █████████████████████████   100.00 % 
+Siyuan                   48 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   25 mins             █████████████████████████   100.00 % 
+SiYuan                   48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:siyuan  25 mins             █████████████████████████   100.00 % 
+siyuan-workspace:siyuan  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -290,7 +290,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:57:09 UTC
+ Last Updated on 15/09/2026 21:34:03 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
