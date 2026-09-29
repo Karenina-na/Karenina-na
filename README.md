@@ -210,42 +210,42 @@
 ### wakatime stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,349 Contributions in the Year 2026
+> 🏆 1,365 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌆 Daytime                1018 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
-🌃 Evening                1006 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌙 Night                  455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+🌞 Morning                435 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+🌆 Daytime                1025 commits        █████████░░░░░░░░░░░░░░░░   35.02 % 
+🌃 Evening                1011 commits        █████████░░░░░░░░░░░░░░░░   34.54 % 
+🌙 Night                  456 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Tuesday                  401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Wednesday                441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Thursday                 403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Friday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 411 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Monday                   396 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Tuesday                  404 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                444 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Thursday                 403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Friday                   414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Saturday                 411 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 ```
 
 
@@ -255,16 +255,16 @@ Sunday                   455 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Siyuan                   0 secs              █████████████████████████   100.00 % 
+Siyuan                   8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-SiYuan                   0 secs              █████████████████████████   100.00 % 
+SiYuan                   8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-siyuan-workspace:siyuan  0 secs              █████████████████████████   100.00 % 
+siyuan-workspace:siyuan  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -276,11 +276,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Jupyter Notebook         9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   17 repos            ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Jupyter Notebook         9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
@@ -290,7 +290,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karenina-na/Karenina-na/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:25:28 UTC
+ Last Updated on 29/09/2026 22:28:11 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="./assert/hr.gif"/>
